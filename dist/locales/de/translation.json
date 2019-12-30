@@ -1,0 +1,29 @@
+{
+  "modal": {
+    "title": "Titel der Veranstaltung",
+    "description": "Eventbeschreibung"
+  },
+  "days": {
+    "sun": "Sonn",
+    "mon": "Montag",
+    "tue": "Dienstag",
+    "wed": "Mittwoch",
+    "thu": "Donnerstag",
+    "fri": "Freitag",
+    "sat": "Samstag"
+  },
+  "month": {
+    "December": "Dezember",
+    "January": "Januar",
+    "February": "Februar",
+    "March": "März",
+    "April": "April",
+    "May": "Kann",
+    "June": "Juni",
+    "July": "Juli",
+    "August": "August",
+    "September": "September",
+    "October": "Oktober",
+    "November": "November"
+  }
+}

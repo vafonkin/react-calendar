@@ -1,0 +1,30 @@
+{
+  "test": "test",
+  "modal": {
+    "title": "Event Title",
+    "description": "Event Description"
+  },
+  "days": {
+    "sun": "воскресенье",
+    "mon": "понедельник",
+    "tue": "вторник",
+    "wed": "среда",
+    "thu": "четверг",
+    "fri": "пятница",
+    "sat": "суббота"
+  },
+  "month": {
+    "December": "декабрь",
+    "January": "январь",
+    "February": "февраль",
+    "March": "март",
+    "April": "апрель",
+    "May": "май",
+    "June": "июнь",
+    "July": "июль",
+    "August": "август",
+    "September": "сентябрь",
+    "October": "октябрь",
+    "November": "ноябрь"
+  }
+}
