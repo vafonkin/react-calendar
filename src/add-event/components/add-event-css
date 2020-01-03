@@ -1,0 +1,14 @@
+.add-event-modal {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 50%;
+  position: absolute;
+  background-color: whitesmoke;
+  border: 1px solid #000;
+  padding: 2px 40px 3px;
+}
+
+.event-button {
+  margin: 5%;
+}
