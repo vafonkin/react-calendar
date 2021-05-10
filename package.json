@@ -22,7 +22,7 @@
     "i18next": "^19.0.2",
     "i18next-browser-languagedetector": "^4.0.1",
     "i18next-xhr-backend": "^3.2.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "material-ui": "^1.0.0-beta.46",
     "material-ui-icons": "^1.0.0-beta.35",
     "moment": "^2.24.0",
